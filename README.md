@@ -1,11 +1,11 @@
 # gh-pages
 sample website
-# Topic of the week
+## Topic of the week
 1. HTML
 2. CSS
 
 
-## Topics of the semester
+### Topics of the semester
 1. Clients and Servers
 2. Coding HTML and CSS
 3. Spreadsheets
