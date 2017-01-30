@@ -1,5 +1,3 @@
-# gh-pages
-sample website
 # Topic of the week
 1. HTML
 2. CSS
