@@ -1,4 +1,4 @@
-
+# Sample page
 ## Topics of the semester
 1. Clients and Servers
 2. Coding HTML and CSS
